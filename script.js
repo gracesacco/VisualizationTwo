@@ -34,5 +34,3 @@ mySelect.onchange = function() {
    filterData(x); 
 	}
  }
-
-
